@@ -8,7 +8,7 @@
 
 ### ALUNO:
 ```
-- Nome : Thomaz Bartol
-- Git : ThomazBartol
+- Nome : Vinicius Souza
+- Git : SouzaEu
 - Instituição de Ensino : FIAP
 ```
